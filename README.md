@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tokKurumi
-- 👀 I’m interested in cs:go sourcemod plugins
-- 🌱 I’m currently learning C#
+- 👋 Hi, I’m Oleg
+- 👀 I’m interested in cs:go sourcemod plugins and configs, C++ libs, C# apps, back-end developing with Spring on Java
+- 🌱 I’m currently learning C#, C++ (with boost), Java (?), PHP
 
 <!---
 tokKurumi/tokKurumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
